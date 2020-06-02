@@ -1,0 +1,4 @@
+<!-- index.wxml -->
+<view class="index-container">
+  <text>首页的基本内容</text>
+</view>

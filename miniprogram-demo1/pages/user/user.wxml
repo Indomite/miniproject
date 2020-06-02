@@ -1,0 +1,6 @@
+<!--pages/user/user.wxml-->
+<view class="index-container">
+  <view class="nikename">
+    用户名{{username}}
+  </view>
+</view>
